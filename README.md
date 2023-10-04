@@ -1,7 +1,10 @@
-- 👋 Hi, I’m Omar Frikha
+# Hi 👋, I'm Omar Frikha
+
+- 🔭 I’m currently working on MERN Project
 - 🌱  I’m currently learning Spring Boot,MERN
 - 💞️ I’m looking to collaborate on MERN project
 - 📫 How to reach me omar.frikha96@gmail.com
+
 
 <!---
 omarfrikha96/omarfrikha96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
