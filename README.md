@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omar Frikha</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **MERN Project**
+- 🔭 I’m currently working on **Spring boot Project**
 
 - 🌱 I’m currently learning **Spring Boot,MERN**
 
