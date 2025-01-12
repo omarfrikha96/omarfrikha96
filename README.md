@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **Spring boot Project**
 
-- 🌱 I’m currently learning **Spring Boot**
-
 - 👯 I’m looking to collaborate on **Spring boot Project**
 
 - 📫 How to reach me **omar.frikha96@gmail.com**
