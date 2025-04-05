@@ -28,7 +28,8 @@ Hey there! 👋 I'm **Omar Frikha**, a passionate **DevOps Engineer** on a missi
 
 ## 📂 **Featured DevOps/cloud Repositories**
 
-🔹 .....
+🔹  [Automating AWS EKS Deployment with Terraform](https://github.com/omarfrikha96/EKS-Terraform)  
+
 🔹 ....
 
 🔥 **Explore all my repositories** 👉 [GitHub Repositories](https://github.com/omarfrikha96?tab=repositories)
