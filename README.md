@@ -1,19 +1,56 @@
-<h1 align="center">Hi 👋, I'm Omar Frikha</h1>
-<h3 align="center">A passionate frontend developer from Tunisia</h3>
 
-- 🔭 I’m currently working on **Spring boot Project**
+# **🚀 About Me**  
 
-- 👯 I’m looking to collaborate on **Spring boot Project**
+## 🚀 **DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD**
 
-- 📫 How to reach me **omar.frikha96@gmail.com**
+![aboutme](https://media.licdn.com/dms/image/v2/D4D16AQH1wIHsePkaAQ/profile-displaybackgroundimage-shrink_350_1400/B4DZXzD9_OG8AY-/0/1743539659717?e=1749081600&v=beta&t=zqL4X8ARbruB7F-mmmoZZoU1FCcnHoBgd-HVNMn_ZlA)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/omarfr96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omarfr96" height="30" width="40" /></a>
-<a href="https://fb.com/oma.fr.officiel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="oma.fr.officiel" height="30" width="40" /></a>
-</p>
+Hey there! 👋 I'm **Omar Frikha**, a passionate **DevOps Engineer** on a mission to automate everything and scale cloud infrastructures efficiently.  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+🔹 **Cloud & DevOps Enthusiast** – Architecting scalable, secure, and high-performance infrastructures using AWS, Azure, Kubernetes, Terraform, and more.  
+🔹 **Automation Lover** – Scripting, CI/CD pipelines, Infrastructure as Code (IaC), and making deployments seamless.  
+🔹 **Content Creator** – I write blogs, create projects, and share everything I learn to help others grow in DevOps!  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarfrikha96&" alt="omarfrikha96" /></p>
+💡 **Let's innovate, automate, and optimize!** 🚀
+
+---
+
+
+## 🌟 **Find Me Online**  
+
+📌 **Connect & Collaborate:**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/harshhaa-vardhan-reddy](https://www.linkedin.com/in/omarfr96/)) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/NotHarshhaa](https://github.com/omarfrikha96))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omar.frikha96@gmail.com)  
+
+---
+
+
+## 📂 **Featured DevOps/cloud Repositories**
+
+🔹 .....
+🔹 ....
+
+🔥 **Explore all my repositories** 👉 [GitHub Repositories](https://github.com/omarfrikha96?tab=repositories)
+
+---
+
+## ⚡ **Tech Stack & Tools I Use**  
+
+![tech](https://imgur.com/RknLHXQ.png)
+
+| ☁️ Cloud & Platforms | 🔧 DevOps & CI/CD | 🐳 Containers & Orchestration | 📊 Monitoring & Infra | 🚀 IaC & Automation |
+|----------------|----------------|----------------|----------------|----------------|
+| ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) | ![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) | ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) |
+| ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) | ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) |
+|  | ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) | ![Helm](https://img.shields.io/badge/Helm-%232C5263.svg?style=for-the-badge&logo=helm&logoColor=white) | ![SonarQube](https://img.shields.io/badge/SonarQube-%23000000.svg?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)  |
+
+---
+
+## **📊 My GitHub Stats**  
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=omarfrikha96&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+---
+
+![end](https://imgur.com/meVJnmd.png)
