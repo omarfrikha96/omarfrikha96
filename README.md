@@ -1,7 +1,7 @@
 
 # **🚀 About Me**  
 
-## 🚀 **DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD**
+##  **DevOps Engineer | Cloud | Automation | Kubernetes | CI/CD**
 
 ![aboutme](https://media.licdn.com/dms/image/v2/D4D16AQH1wIHsePkaAQ/profile-displaybackgroundimage-shrink_350_1400/B4DZXzD9_OG8AY-/0/1743539659717?e=1749081600&v=beta&t=zqL4X8ARbruB7F-mmmoZZoU1FCcnHoBgd-HVNMn_ZlA)
 
