@@ -27,7 +27,7 @@ Hey there! 👋 I'm **Omar Frikha**, a passionate **DevOps Engineer** on a missi
 
 
 ## 📂 **Featured DevOps/cloud Repositories**
-🔹  [My portfolio web site and deployemnt on Aws S3 ](https://github.com/omarfrikha96/Portfolio)  
+🔹  [My portfolio website and deploy it on AWS S3 ](https://github.com/omarfrikha96/Portfolio)  
 
 🔹  [DevSecOps-project on Azure AKS](https://github.com/omarfrikha96/DevSecOps-project)  
 
